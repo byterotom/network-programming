@@ -6,8 +6,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/hellinvoid/network-programming/problems/007-line-reversal/dto"
-	"github.com/hellinvoid/network-programming/problems/007-line-reversal/service"
+	"github.com/byterotom/network-programming/problems/007-line-reversal/dto"
+	"github.com/byterotom/network-programming/problems/007-line-reversal/service"
 )
 
 const (

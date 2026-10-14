@@ -6,7 +6,7 @@ import (
 	"log"
 	"net"
 
-	"github.com/hellinvoid/network-programming/problems/008-insecure-sockets-layer/service"
+	"github.com/byterotom/network-programming/problems/008-insecure-sockets-layer/service"
 )
 
 const (

@@ -5,7 +5,7 @@ import (
 	"log"
 	"net"
 
-	"github.com/hellinvoid/network-programming/problems/009-job-centre/dto"
+	"github.com/byterotom/network-programming/problems/009-job-centre/dto"
 )
 
 func (jc *JobCentre) HandleAbort(m *dto.Message, conn net.Conn, allocated []*QueueEntry) []*QueueEntry {

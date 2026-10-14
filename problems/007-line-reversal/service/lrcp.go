@@ -9,8 +9,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/hellinvoid/network-programming/common"
-	"github.com/hellinvoid/network-programming/problems/007-line-reversal/dto"
+	"github.com/byterotom/network-programming/common"
+	"github.com/byterotom/network-programming/problems/007-line-reversal/dto"
 )
 
 const (

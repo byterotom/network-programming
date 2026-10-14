@@ -4,7 +4,7 @@ import (
 	"errors"
 	"slices"
 
-	"github.com/hellinvoid/network-programming/problems/002-means-to-an-end/dto"
+	"github.com/byterotom/network-programming/problems/002-means-to-an-end/dto"
 )
 
 type Asset struct {

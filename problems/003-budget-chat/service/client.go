@@ -7,7 +7,7 @@ import (
 	"io"
 	"net"
 
-	"github.com/hellinvoid/network-programming/common"
+	"github.com/byterotom/network-programming/common"
 )
 
 const (

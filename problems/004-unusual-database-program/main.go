@@ -5,7 +5,7 @@ import (
 	"net"
 	"strings"
 
-	"github.com/hellinvoid/network-programming/problems/004-unusual-database-program/service"
+	"github.com/byterotom/network-programming/problems/004-unusual-database-program/service"
 )
 
 const (

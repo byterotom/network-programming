@@ -1,3 +1,3 @@
-module github.com/hellinvoid/network-programming
+module github.com/byterotom/network-programming
 
 go 1.25.6

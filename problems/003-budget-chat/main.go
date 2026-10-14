@@ -4,7 +4,7 @@ import (
 	"log"
 	"net"
 
-	"github.com/hellinvoid/network-programming/problems/003-budget-chat/service"
+	"github.com/byterotom/network-programming/problems/003-budget-chat/service"
 )
 
 const (

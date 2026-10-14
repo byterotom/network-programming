@@ -4,8 +4,8 @@ import (
 	"log"
 	"net"
 
-	"github.com/hellinvoid/network-programming/problems/002-means-to-an-end/dto"
-	"github.com/hellinvoid/network-programming/problems/002-means-to-an-end/service"
+	"github.com/byterotom/network-programming/problems/002-means-to-an-end/dto"
+	"github.com/byterotom/network-programming/problems/002-means-to-an-end/service"
 )
 
 const (

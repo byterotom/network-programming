@@ -4,7 +4,7 @@ import (
 	"log"
 	"net"
 
-	"github.com/hellinvoid/network-programming/problems/005-mob-in-the-middle/service"
+	"github.com/byterotom/network-programming/problems/005-mob-in-the-middle/service"
 )
 
 const (

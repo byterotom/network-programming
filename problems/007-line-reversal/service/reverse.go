@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/hellinvoid/network-programming/problems/007-line-reversal/dto"
+	"github.com/byterotom/network-programming/problems/007-line-reversal/dto"
 )
 
 func (lrcp *LRCP) reverse(pr *io.PipeReader, sessionId uint64, addr *net.UDPAddr, ack chan *dto.Message, end <-chan any) error {

@@ -6,7 +6,7 @@ import (
 	"log"
 	"net"
 
-	"github.com/hellinvoid/network-programming/problems/009-job-centre/dto"
+	"github.com/byterotom/network-programming/problems/009-job-centre/dto"
 )
 
 func (jc *JobCentre) HandlePut(m *dto.Message, conn net.Conn) {

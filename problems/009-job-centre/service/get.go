@@ -7,7 +7,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/hellinvoid/network-programming/problems/009-job-centre/dto"
+	"github.com/byterotom/network-programming/problems/009-job-centre/dto"
 )
 
 type GetResponse struct {

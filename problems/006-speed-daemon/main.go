@@ -4,7 +4,7 @@ import (
 	"log"
 	"net"
 
-	"github.com/hellinvoid/network-programming/problems/006-speed-daemon/service"
+	"github.com/byterotom/network-programming/problems/006-speed-daemon/service"
 )
 
 const (

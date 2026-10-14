@@ -5,7 +5,7 @@ import (
 	"net"
 	"strings"
 
-	"github.com/hellinvoid/network-programming/common"
+	"github.com/byterotom/network-programming/common"
 )
 
 func ProxyRequest(in, out net.Conn) {
